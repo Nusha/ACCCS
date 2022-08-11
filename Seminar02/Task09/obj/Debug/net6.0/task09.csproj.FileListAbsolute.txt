@@ -1,0 +1,15 @@
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.csproj.AssemblyReference.cache
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.AssemblyInfoInputs.cache
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.AssemblyInfo.cs
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.csproj.CoreCompileInputs.cache
+C:\GB\Introp\Lecture01\Seminar02\task09\bin\Debug\net6.0\task09.exe
+C:\GB\Introp\Lecture01\Seminar02\task09\bin\Debug\net6.0\task09.deps.json
+C:\GB\Introp\Lecture01\Seminar02\task09\bin\Debug\net6.0\task09.runtimeconfig.json
+C:\GB\Introp\Lecture01\Seminar02\task09\bin\Debug\net6.0\task09.dll
+C:\GB\Introp\Lecture01\Seminar02\task09\bin\Debug\net6.0\task09.pdb
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.dll
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\refint\task09.dll
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.pdb
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\task09.genruntimeconfig.cache
+C:\GB\Introp\Lecture01\Seminar02\task09\obj\Debug\net6.0\ref\task09.dll
